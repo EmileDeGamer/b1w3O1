@@ -7,7 +7,7 @@ img{
 }
 
 body{
-    background-color: lightskyblue;
+    background-color: lightsteelblue;
     text-align: center;
     font: bold 15px Arial;
 }
@@ -15,7 +15,7 @@ body{
 .button{
     font: bold 20px Arial;
     font-size: 77%;
-    background-color: lightgreen;
+    background-color: lightseagreen;
     color: #000000;
     padding:5px;
     margin-bottom:5px;
